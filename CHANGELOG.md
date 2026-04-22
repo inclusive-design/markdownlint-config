@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/inclusive-design/markdownlint-config/compare/v0.1.1...v0.1.2) (2026-04-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency markdownlint-cli2 to v0.22.1 ([28b5bff](https://github.com/inclusive-design/markdownlint-config/commit/28b5bff58e2437e04bdd50aff2a8be7d65b6cc47))
+
 ## [0.1.1](https://github.com/inclusive-design/markdownlint-config/compare/v0.1.0...v0.1.1) (2026-03-26)
 
 
